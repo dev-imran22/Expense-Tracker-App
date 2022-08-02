@@ -4,6 +4,5 @@ An Android App to manage your expenses in an Easy manner with a user friendly UI
 
 
 
-# Architecture Diagram
-![](/Images/Architecturediagram.jpg)
+
 
